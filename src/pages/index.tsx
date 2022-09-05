@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       <div className={styles.containerOuter}>
         <div className={styles.containerInner}>
           <h1 className={styles.title}>
-              Example app. First version
+              Example app. Second version
           </h1>
         </div>
       </div>
